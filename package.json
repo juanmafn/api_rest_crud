@@ -1,0 +1,12 @@
+{
+  "name": "APIRestCrud",
+  "version": "0.0.1",
+  "description": "Ejemplo de API REST CRUD",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.7.1",
+    "mongoose": "~3.6.11",
+    "method-override": "^2.1.2",
+    "body-parser": "^1.5.1"
+  }
+}
