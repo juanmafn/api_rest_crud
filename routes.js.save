@@ -1,0 +1,11 @@
+module.exports = function (app) {
+
+	/**
+	* * * * * * * * 
+	* API Routes  *
+	* * * * * * * *
+	*/
+
+	app.get('/tareas', require(0));
+
+}
